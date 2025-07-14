@@ -1,5 +1,5 @@
 
-// program 1
+// program 1 Check Even or Odd 
 // function EvenOrOdd(number) {
 //     if (number % 2 === 0) {
 //       return "Even";
@@ -11,13 +11,13 @@
 //   const input = 7;
 //   console.log(EvenOrOdd(input));  
   
-// program 2
+// program 2 Find the Maximum of Two Numbers 
 
 // const input1 = 5;
 // const input2 = 9;
 // console.log(Math.max(input1, input2));  
 
-// program 3
+// program 3 Check Leap Year 
 
 // function checkLeapYear(year) {
 //   if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
@@ -30,7 +30,7 @@
 // const inputYear = 2020;
 // console.log(checkLeapYear(inputYear)); 
 
-// program 4
+// program 4 Sum of Natural Numbers 
 
 // function sumOfNaturalNumbers(n) {
 //   return (n * (n + 1)) / 2;
@@ -39,7 +39,7 @@
 // const input = 5;
 // console.log(sumOfNaturalNumbers(input));  
 
-// program 5
+// program 5 Factorial of a Number 
 
 // function factorial(n) {
 //   if (n === 0 || n === 1) {
@@ -55,7 +55,7 @@
 // const input = 4;
 // console.log(factorial(input));  
 
-// program 6
+// program 6 Print Multiplication Table 
 
 // function printMultiplicationTable(number) {
 //   for (let i = 1; i <= 10; i++) {
@@ -65,7 +65,7 @@
 // const input = 3;
 // printMultiplicationTable(input);
 
-// program 7
+// program 7 Reverse a Number 
 // function reverseNumber(number) {
  
 //   return parseInt(number.toString().split('').reverse().join(''));
@@ -74,7 +74,7 @@
 // const input = 1234;
 // console.log(reverseNumber(input)); 
 
-// program 8
+// program 8 Palindrome Check (Number) 
 
 // function isPalindrome(number) {
 //   const str = number.toString();
@@ -85,7 +85,7 @@
 // const input = 121;
 // console.log(isPalindrome(input));  
 
-// program 9
+// program 9 Check Prime Number 
 
 // function isPrime(number) {
 //   if (number <= 1) return "Not Prime";
@@ -98,7 +98,7 @@
 // const input = 11;
 // console.log(isPrime(input)); 
 
-// program 10
+// program 10 Count Digits in a Number 
 
 // function countDigits(number) {
 //   return number.toString().length;
